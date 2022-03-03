@@ -1,34 +1,11 @@
 import type { NextPage } from 'next';
-import { useEffect, useState } from 'react';
 import { useQuery } from 'react-query';
+import SearchBar from '../components/SearchBar';
+import useGeolocation from '../hooks/useGeolocation';
 import { Restaurant } from '../models/restaurant';
 
 const Home: NextPage = () => {
-	const [lat, setLat] = useState<number | null>(null);
-	const [lng, setLng] = useState<number | null>(null);
-	const [loading, setLoading] = useState<boolean>(true);
-	const [error, setError] = useState<string | null>(null);
-
-	useEffect(() => {
-		if (!navigator.geolocation) {
-			setError('Geolocation is not supported by your browser');
-			setLoading(false);
-		} else {
-			setLoading(true);
-			navigator.geolocation.getCurrentPosition(
-				position => {
-					setLat(position.coords.latitude);
-					setLng(position.coords.longitude);
-					setLoading(false);
-				},
-				error => {
-					console.log(error);
-					setError('Unable to retrieve your location');
-					setLoading(false);
-				}
-			);
-		}
-	}, []);
+	const { lat, lng, loading, error } = useGeolocation();
 
 	const { data } = useQuery<Restaurant[]>(['place', { lat, lng }], async () => {
 		return await (
@@ -49,6 +26,7 @@ const Home: NextPage = () => {
 						<div key={restaurant.place_id}>{restaurant.name}</div>
 				  ))
 				: null}
+			<SearchBar />
 
 			{error && <p>{error}</p>}
 		</>

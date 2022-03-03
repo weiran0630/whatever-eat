@@ -1,0 +1,1055 @@
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEC0_76zsSGFO4fjhYijQfDS5toLH-5eUPjrXNLXvLsEJMDGwSndRQVMt_lfxqCKwW6LYYDHzE1OPRn4MG2kqeFSWr_OUW1I7JQGPVgrpXMZVfAPCbUNfRbnTgJAWeLaf4qYWO0kN5r-KceWnPVJvKnMmQS1D6sDsIUXWGtB-PW2jTtDIpp81fqdNSGUF5YfA1Yl5csL6AC0Z7Hjtl8AgB3axWJ2JMWv2BMnLFqWsntvvP4JA3q_jxTAi5z5TJuk6WPuOoSI_aiLR-pcET1JU5rS3yIXodja5UtMB-jV6BBq3LMsAdtnk3Uu3C3oF45AtzqJRrWvzq2sw-9J2fpVO51zQmEQDSDxnYl13Axzb_aCxlEJllb6hHJ9SamNLaDuyl0qsNF9dQTVXAUki8b4F6aYtXmGzI3N9FnRXx4uL-82ZZprJAUqnWzOFAe2KmnATVE",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9906834,
+          "lng": 121.3440235
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9920654802915,
+            "lng": 121.3454393302915
+          },
+          "southwest": {
+            "lat": 24.98936751970849,
+            "lng": 121.3427413697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "ciao206 品味義大利",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108785089293635527970\">李小芳</a>"
+          ],
+          "photo_reference": "Aap_uEC-DT_TcC0rd4fsjItbFuF1mwzH0_FiiM5XSuIQMXD4vEA86-w-GcsPYpP8ykyK2NfRnZ9etmfCnukAM32uc0CiG3h-dDXuhmv9pLCSyK_yon9WdJY44JOtujqnuAS4ASmpTYiGZrWSxcr5F8lQq4VPB6XA-UEcp-b28VbVXQ1C2mOQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJiXTbyYceaDQRsoTS3cCAQWQ",
+      "plus_code": {
+        "compound_code": "X8RV+7J Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8RV+7J"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJiXTbyYceaDQRsoTS3cCAQWQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 410,
+      "vicinity": "No. 206, Datong Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9901527,
+          "lng": 121.3443371
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.99153898029151,
+            "lng": 121.3457580302915
+          },
+          "southwest": {
+            "lat": 24.9888410197085,
+            "lng": 121.3430600697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "泰皇泰式料理",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116671879109623682806\">黎紘銘</a>"
+          ],
+          "photo_reference": "Aap_uEBtFssDsErK3jIojfiiWaVZxkPJytddyq-EEWDG7vDNvBy29zD99LaA3_S-ZJ7j7XMZrP0PPxm5ojbhZbDSpbbLzfQcO9x7phg6IeALfpglc-u_CgobBkBDsmm9PraRzADZ4SzLEhThRchSvpkzHj5_oYeHonfFLhZnCFFlVEI1MdyY",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJoYGw8IYeaDQRv17Mcz6K-3w",
+      "plus_code": {
+        "compound_code": "X8RV+3P Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8RV+3P"
+      },
+      "rating": 4,
+      "reference": "ChIJoYGw8IYeaDQRv17Mcz6K-3w",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 418,
+      "vicinity": "No. 230, Datong Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.98922929999999,
+          "lng": 121.3444778
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9906465802915,
+            "lng": 121.3457541802915
+          },
+          "southwest": {
+            "lat": 24.98794861970849,
+            "lng": 121.3430562197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "大台北阿松的店",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100102900660530386914\">徐英傑</a>"
+          ],
+          "photo_reference": "Aap_uEAkOzhU0XeVv-5iotEs9cV4hd2dXIEMYjAKyvbFX-iiHNA1CIHqk7PHubb3eEeDENCr9G_fWjTH-f4XFLLjEF9nsP5eRE3FEMiWrw0r1mLyidnmuSTiSWpwSlntSj2FIKeGdfJQe4g4JiRaLOn_xLmvRi6DHTSOl7oJlOCE94WqaEN5",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJn9TSRoYeaDQRds2ySzg8hL4",
+      "plus_code": {
+        "compound_code": "X8QV+MQ Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QV+MQ"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJn9TSRoYeaDQRds2ySzg8hL4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 272,
+      "vicinity": "No. 178號, Deming Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9897449,
+          "lng": 121.3435085
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9911386302915,
+            "lng": 121.3449122802915
+          },
+          "southwest": {
+            "lat": 24.9884406697085,
+            "lng": 121.3422143197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "小判 拉麵專門店",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1367,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112172226177637065507\">Stars Yang</a>"
+          ],
+          "photo_reference": "Aap_uEBgim7MJQQv6QlVp-5f6vOSjIDv1GpvRgyekRiX0PPvQAoaM_13I_3Gew7UEoD5bbjcS_g8bxHNBmKsUC5tU1U03dkVB5WOv-YJvUlR2BO4McSi4nZGz33zOzV_FcanmX_NzWKoD3Poq0wXVPQnFNukE13B8F49MZykP7W8wdnau1fA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJbajcOoYeaDQRVRQ5W3RJ844",
+      "plus_code": {
+        "compound_code": "X8QV+VC Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QV+VC"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJbajcOoYeaDQRVRQ5W3RJ844",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 210,
+      "vicinity": "No. 318號, Mingde Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9916445,
+          "lng": 121.343272
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9930462302915,
+            "lng": 121.3446782302915
+          },
+          "southwest": {
+            "lat": 24.9903482697085,
+            "lng": 121.3419802697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "籠箂碳烤",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110310509490374329160\">籠箂碳烤</a>"
+          ],
+          "photo_reference": "Aap_uEByLrWOU6vakiQQNqxuWNldWzdYmZVDFTfsqXuhmdO_613bAs_urb8ZJt9rAhlFesluAFohbeWLc1FTQzIux-YbV1hNJm6yCYHSvCAmSs9QEbMA1BswhPoNzhieQDUkHT72DiXRvpplgjMs8I0HUGRsXLGCVasVcPBCR5s9JZFuJBEi",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJcZgE_9odaDQR_b6fpbsWMNY",
+      "plus_code": {
+        "compound_code": "X8RV+M8 Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8RV+M8"
+      },
+      "rating": 4.3,
+      "reference": "ChIJcZgE_9odaDQR_b6fpbsWMNY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 52,
+      "vicinity": "No. 160號, Datong Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9895513,
+          "lng": 121.3439902
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9908820802915,
+            "lng": 121.3453174802915
+          },
+          "southwest": {
+            "lat": 24.9881841197085,
+            "lng": 121.3426195197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "核桃屋",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111887997618037387256\">小雞仔Chick891025</a>"
+          ],
+          "photo_reference": "Aap_uEBcYaQ6vdNJjy57fwLG8eQKUa26U9DM5TbsThsUVzcqJaO_DUrUTsMIs1GnrLRCOxqYWuWB_PhU5RFVauasZXDamGpz2JjnpBMoebU6x59JVJUG_QVqJ3BFshMgeK6cGq0oQDe-9ap8Uk1NtSykpj4RZiLjvb17BK4HFihSL5zdb8H6",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJoTkhgogeaDQRnxjBnw350gE",
+      "plus_code": {
+        "compound_code": "X8QV+RH Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QV+RH"
+      },
+      "rating": 2.8,
+      "reference": "ChIJoTkhgogeaDQRnxjBnw350gE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 117,
+      "vicinity": "No. 323號, Mingde Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9888101,
+          "lng": 121.3440747
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9902660302915,
+            "lng": 121.3453293802915
+          },
+          "southwest": {
+            "lat": 24.9875680697085,
+            "lng": 121.3426314197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "五味臭臭鍋",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117966467603058829218\">天空</a>"
+          ],
+          "photo_reference": "Aap_uECvITQdIoMyfSbp4lzGSlIJCHxdKWcp30iYi9eNA3ayh1OjIK51c50rXMobQ8IOZZhS08qzlLAMmXFPfMPCnnWDqWpxVpa6tBoEu-4ju3LSliujdJvlKvhhAEe498yOjSPG6GrGqgvJ6xfJDoQXaoSyr6gknbDwxZI_N-zZbNCBNux1",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJYw0UE4YeaDQRk8LVJvrk4i8",
+      "plus_code": {
+        "compound_code": "X8QV+GJ Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QV+GJ"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJYw0UE4YeaDQRk8LVJvrk4i8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 186,
+      "vicinity": "No. 164, Deming Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9900986,
+          "lng": 121.3446774
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.99142438029151,
+            "lng": 121.3459762302915
+          },
+          "southwest": {
+            "lat": 24.9887264197085,
+            "lng": 121.3432782697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "11番町豚骨拉麵",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106602991120601483115\">蔡政宏</a>"
+          ],
+          "photo_reference": "Aap_uECNWJ0ycHjLaDm35W32LuALG9HchI8ORpZlr4g-uO3Dbh8pGGNPWgLdWW-Fl1awQCBSp5tmZqi-NwqoTI6ae9lmNr2epYmSTSFOJbXDRyqf8Gz1XexmrBu-BLzKwOUoleTpsOA0F2Es2CzmcEoOtKQrNszeLC8BgV6ZkkwZI7wBkOKZ",
+          "width": 3792
+        }
+      ],
+      "place_id": "ChIJNd7OAgsfaDQRcboPxEmtzLE",
+      "plus_code": {
+        "compound_code": "X8RV+2V Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8RV+2V"
+      },
+      "rating": 4.2,
+      "reference": "ChIJNd7OAgsfaDQRcboPxEmtzLE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 284,
+      "vicinity": "247, No. 1, Datong Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9900013,
+          "lng": 121.3445437
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.99135878029151,
+            "lng": 121.3459110302915
+          },
+          "southwest": {
+            "lat": 24.9886608197085,
+            "lng": 121.3432130697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "滷味庭三杯滷味",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107509922352028619108\">滷味庭三杯滷味</a>"
+          ],
+          "photo_reference": "Aap_uECtHCzy2ikKCQDP_sMdGdgrii4RYqeTN0cFq7oOWtOSJEW8CYOOGQqCnAX6x_PGdVZzrATC3oFsp-XpBnN31YE7pPuqFPGshgYRpj4NDNLeCugPFAiMZ7AELeUTyMsfOlpBKtFaRkWqyC8zo2WerpKkxtB9imVBe0tTUD6J8pXTPhx7",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJWxFHTIYeaDQRo37JWhS92js",
+      "plus_code": {
+        "compound_code": "X8RV+2R Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8RV+2R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJWxFHTIYeaDQRo37JWhS92js",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 126,
+      "vicinity": "No. 242號, Datong Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9900129,
+          "lng": 121.3445105
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.99137818029151,
+            "lng": 121.3458946802915
+          },
+          "southwest": {
+            "lat": 24.9886802197085,
+            "lng": 121.3431967197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "紅色炸蛋蔥油餅（龜山店）",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2925,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102239909997884991619\">紅色炸蛋蔥油餅（龜山店）</a>"
+          ],
+          "photo_reference": "Aap_uEDlcF4mSXDhewJ3fNFpvO8hHX1d_P-J4Laz3oyqNMHtfq6I6xDsI7fQK-ERWe2FDEOZF9_oEpk2t8o1gOahI5lNjCWsdauW87RRMrTQxwwLILyRQ_0LyAZ-1tv1O_I2q2jp1UELy7TzQYXVhMDDKHrc4_fZJvtE3KPLf_NjuJ1Kzsu8",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJl9ggs-8faDQRXpcZbhgY4gs",
+      "plus_code": {
+        "compound_code": "X8RV+2R Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8RV+2R"
+      },
+      "reference": "ChIJl9ggs-8faDQRXpcZbhgY4gs",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "No. 246號之1, Datong Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9901627,
+          "lng": 121.3447609
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9914702802915,
+            "lng": 121.3460108802915
+          },
+          "southwest": {
+            "lat": 24.9887723197085,
+            "lng": 121.3433129197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "小李子麵飯館",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106767038530666360699\">小李子麵飯館</a>"
+          ],
+          "photo_reference": "Aap_uEAN_t_mbAsbGzeAPlMI1Iehx1KOJ-Vd4M5J0e2fXzzAJRqXMkoVQdpqbpsyAXky7bDvfW0kpoNhVUi24oUe798esdGw2RTneaJ82Y8Ua6bmL7u7H5zkt-CntFJyL_0r_PE4xt0X3r3c4AEtW5QEyiyNjLtKxzAukE6Z6BHfxCkhuxnr",
+          "width": 1438
+        }
+      ],
+      "place_id": "ChIJISmwxt8faDQRgSzxaxSK2_0",
+      "plus_code": {
+        "compound_code": "X8RV+3W Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8RV+3W"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJISmwxt8faDQRgSzxaxSK2_0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 55,
+      "vicinity": "No. 239號, Datong Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9897659,
+          "lng": 121.3445117
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9910514802915,
+            "lng": 121.3459279302915
+          },
+          "southwest": {
+            "lat": 24.9883535197085,
+            "lng": 121.3432299697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "炸G行家-龜山銘傳店",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 832,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102142380780170392913\">炸G行家-龜山銘傳店</a>"
+          ],
+          "photo_reference": "Aap_uEAIy8mfW6sMxKJHcR1Iteq-JpqtxDU5CM-Yl7IufW2nmMfzUtqycZv9juFp2RjOjv484oNukom94DTsLJPvokPX68DRcEcHlo8RM6hVWGc-FU5-njbwAu05B7CU7Pqg2FQz7RYoDEnV5rmtevNmNvRv4-EfqcyfZjMJLOGNbe7ynj2f",
+          "width": 1478
+        }
+      ],
+      "place_id": "ChIJDzq-0p0faDQRbafD-Wy736U",
+      "plus_code": {
+        "compound_code": "X8QV+WR Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QV+WR"
+      },
+      "rating": 4.7,
+      "reference": "ChIJDzq-0p0faDQRbafD-Wy736U",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 41,
+      "vicinity": "No. 135號, Deming Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9900675,
+          "lng": 121.3442394
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9913980302915,
+            "lng": 121.3456020302915
+          },
+          "southwest": {
+            "lat": 24.98870006970849,
+            "lng": 121.3429040697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "京采日式飯館",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102351339088859649870\">Kuo Tom</a>"
+          ],
+          "photo_reference": "Aap_uECVus6bE12onHuPBlY8C8M6NY5gmU0jHo-n0NqsGdlJdQ4SD37DSJiNp5heQHEUnXsnTt0BVwcb9dAsRxqzo0fgDwzbxJxYjR7-OuLsOHCUUQXINnIuCzmAAGRAScSzM0IE-eHKhYSbqxhFYAhNjNv20yZXXZ8N-3yLs7PpBlaY59w-",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJ9U0dSoYeaDQRDMw641E0XdE",
+      "plus_code": {
+        "compound_code": "X8RV+2M Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8RV+2M"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJ9U0dSoYeaDQRDMw641E0XdE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 237,
+      "vicinity": "No. 40, Lane 236, Datong Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9896663,
+          "lng": 121.3443755
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9909469302915,
+            "lng": 121.3457969802915
+          },
+          "southwest": {
+            "lat": 24.98824896970849,
+            "lng": 121.3430990197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "夜貓鷄排(原超級雞車)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101064568399000349137\">夜猫鸡排</a>"
+          ],
+          "photo_reference": "Aap_uEBPy63RUA3sleGLhXVHAOZwn6Ih2ewC9JgY57rYwLRGJpTUS4ZJh4gJeyXDbt5j-6MrIwQ5Dw-5BffCHxtjvQF9cvi93-52zR9ua2R8i6qQA3KQJm2msD1AWGlncvAmMwhwnxgeR2BDy-2QrWSCDu8cSv3w9EiwL09kOI1u4BiOeabq",
+          "width": 1478
+        }
+      ],
+      "place_id": "ChIJ7-BADoYeaDQRvX4Hvvt8nOo",
+      "plus_code": {
+        "compound_code": "X8QV+VQ Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QV+VQ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ7-BADoYeaDQRvX4Hvvt8nOo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 188,
+      "vicinity": "No. 125號, Deming Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9895586,
+          "lng": 121.344282
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9908441302915,
+            "lng": 121.3456966802915
+          },
+          "southwest": {
+            "lat": 24.9881461697085,
+            "lng": 121.3429987197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "3Q雞排銘傳店",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107032448510021663001\">Lu-wei Chen</a>"
+          ],
+          "photo_reference": "Aap_uECNcUVJ0P8C72224NlkuzxAVw-kdo2hyutHBaRxbLY-RoWFoOkQsQIEgMhzeQk03IuZHVXQIiqQ5bMEruZ0fx6WGdzNHQpp1f-i0PYt5xbf7fiz5bZJd02CsvEfp_dQ1DRU_N-wIPb-YAxL5iZRvdrSRwKDnUmWc54WYneVKxYiB4Dt",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_wYfCUsfaDQRHbGCmsT1lnM",
+      "plus_code": {
+        "compound_code": "X8QV+RP Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QV+RP"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ_wYfCUsfaDQRHbGCmsT1lnM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "No. 121號, Deming Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9894891,
+          "lng": 121.3442779
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9907921802915,
+            "lng": 121.3456743802915
+          },
+          "southwest": {
+            "lat": 24.9880942197085,
+            "lng": 121.3429764197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "八哥重慶酸辣粉",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 413,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115651204408787290987\">八哥重慶酸辣粉</a>"
+          ],
+          "photo_reference": "Aap_uEAnoKykI2rjkp4ba0hv_Rn-sgIJwOk2tomBoeLZql6q1Vuw0RXiEh_ORJhjn8MB-ch6r1mreZhRmsIFdrzKVJl11h5dAM089pcNUdf8IA7Z6wEjm9B6gF6ifZqcz-sryvBewN_5oReoQ8KHsb6komvxXFtdtsF98dY9f-aNBHPRPcsB",
+          "width": 736
+        }
+      ],
+      "place_id": "ChIJn0IbD4YeaDQRPqSnl3sgmrs",
+      "plus_code": {
+        "compound_code": "X8QV+QP Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QV+QP"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJn0IbD4YeaDQRPqSnl3sgmrs",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 475,
+      "vicinity": "No. 117號, Deming Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9894769,
+          "lng": 121.3442615
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9907794802915,
+            "lng": 121.3456584802915
+          },
+          "southwest": {
+            "lat": 24.9880815197085,
+            "lng": 121.3429605197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "大摳ㄟ酸辣麵",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104592860323310385539\">Dennies Wu</a>"
+          ],
+          "photo_reference": "Aap_uEAjuqgonQ8iel44eb0h_kwmvg5asCZ80Zs4k2EatbBOyJCBYpHSQ_BeDEbYS9vnj2w15bK-Rnxn_Tr9MkyXT7iXLd2OXjTN9GXvgc5Nir4-UnQy-oKte60AhbiekXuv6fvzA75I0-T24VI0IUfTCwq07FyEfA6jF4-mU5BM2Fu0Nzk4",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJd7YTR4YeaDQR-4S5cEnW5tc",
+      "plus_code": {
+        "compound_code": "X8QV+QP Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QV+QP"
+      },
+      "rating": 4.6,
+      "reference": "ChIJd7YTR4YeaDQR-4S5cEnW5tc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 29,
+      "vicinity": "No. 115號, Deming Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9894532,
+          "lng": 121.3442363
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9907564302915,
+            "lng": 121.3456326302915
+          },
+          "southwest": {
+            "lat": 24.9880584697085,
+            "lng": 121.3429346697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "金北海道滷味簡餐",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110359759113039968907\">陳威志</a>"
+          ],
+          "photo_reference": "Aap_uEDohHCPE3sqtChidpsk3rjXILam6LGnMnQLpRXO6zRy_oEdfV0MgF-j0mLEiyjATwswhiY9poUH4Eo9FbpWnOPE1jpOSXdHF52vgrfNb5dESg8aPbC7lbMsuK5HsCff1fGJSDStbje1FcMp2nukYCDVLx7xMpWjUKafD3kncglTBZta",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJj4JqR4YeaDQRFVd09tf9eYg",
+      "plus_code": {
+        "compound_code": "X8QV+QM Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QV+QM"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJj4JqR4YeaDQRFVd09tf9eYg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 45,
+      "vicinity": "No. 113號, Deming Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9895646,
+          "lng": 121.3452638
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9908801802915,
+            "lng": 121.3465911802915
+          },
+          "southwest": {
+            "lat": 24.9881822197085,
+            "lng": 121.3438932197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "香腸阿舍",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109684907982595241504\">香腸阿舍</a>"
+          ],
+          "photo_reference": "Aap_uEBLn_1RV2dLvfPOVs3Ogle6kFntZIJ_8gAIfnxMHf0d6HYnPe3F1zK-BhK9BEc_PahznkYKbETXXtBp1jM2ddBV8OKiPrKaQat1niQHM6BfFyOdynBPuox24zFS32-oXvCI_-hZ-7jxuRLH6PSOOC0m9RP6SUJHIpmX095o2hioleLh",
+          "width": 1706
+        }
+      ],
+      "place_id": "ChIJP-rtiPIfaDQRK7qQA5myWSs",
+      "plus_code": {
+        "compound_code": "X8QW+R4 Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QW+R4"
+      },
+      "rating": 3.3,
+      "reference": "ChIJP-rtiPIfaDQRK7qQA5myWSs",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "No. 265號, Datong Road, Guishan District"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.9895895,
+          "lng": 121.3439545
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.9909188802915,
+            "lng": 121.3452799802915
+          },
+          "southwest": {
+            "lat": 24.9882209197085,
+            "lng": 121.3425820197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "滷一郎醬滷味-銘傳店 | 宵夜美食",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103368926343176523201\">滷一郎醬滷味-銘傳店 | 宵夜美食</a>"
+          ],
+          "photo_reference": "Aap_uEC3Nf_pa26XuLMQS5-_Ycie1fYlBo9SDF35ekx4Ek6pkEQmQCEcxbL3vJMop1bXj3-XfnmeMZ7jg97gF46x5VavbisQTu2TYEYT6a2jikTx7kGXl4X77w4pikzaJcOeK-h4K6gysTtumJCOxI7uZItI7Of9z2ROfYxoatYXMaQm-t3n",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJp1CF8egfaDQR2XIM6yebKtY",
+      "plus_code": {
+        "compound_code": "X8QV+RH Guishan District, Taoyuan City, Taiwan",
+        "global_code": "7QP3X8QV+RH"
+      },
+      "rating": 3.6,
+      "reference": "ChIJp1CF8egfaDQR2XIM6yebKtY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "No. 321號, Mingde Road, Guishan District"
+    }
+  ],
+  "status": "OK"
+}
