@@ -2,9 +2,11 @@ import React from 'react';
 
 export default function LoadingSpinner() {
 	return (
-		<div className='lds-ripple text-green-400'>
-			<div></div>
-			<div></div>
+		<div className='container flex justify-center items-center min-h-[30vh]'>
+			<div className='lds-ripple'>
+				<div></div>
+				<div></div>
+			</div>
 		</div>
 	);
 }

@@ -28,18 +28,18 @@ export default function RestaurantCard({ restaurant }: RestaurantCardProps) {
 			}}
 			whileHover={{ scale: 1.05 }}
 		>
-			<div className='relative h-[200px] w-[300px] aspect-[4/3] m-0 rounded-t-xl overflow-hidden'>
+			<div className='relative h-[275px] w-[400px] aspect-[4/3] m-0 rounded-t-xl overflow-hidden'>
 				<Image
 					className='relative shadow-inner shadow-white'
 					src={photoUrl}
 					alt={restaurant.name}
-					height={200}
-					width={300}
+					height={275}
+					width={400}
 					layout='responsive'
 				/>
 			</div>
 
-			<h2 className='m-4 inline-block max-w-fit font-medium'>
+			<h2 className='m-4 inline-block text-xl max-w-fit font-medium'>
 				{restaurantName}
 			</h2>
 		</motion.div>

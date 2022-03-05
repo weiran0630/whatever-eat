@@ -11,27 +11,42 @@
 }
 
 body {
-	@apply text-gray-700;
-	background: url('/assets/images/bg.png') no-repeat center center fixed;
+	@apply text-gray-700 bg-slate-300;
+	/* background: url('/assets/images/bg.png') no-repeat center center fixed; */
 }
 
-.bubble {
+.bubble-left {
 	position: relative;
-	color: #ffffff;
-	@apply bg-green-400 bg-opacity-90;
+	@apply text-gray-600 mr-auto p-5 sm:p-8 text-4xl sm:text-5xl rounded-3xl backdrop-blur-sm mb-10  cursor-default items-start  bg-gray-200 bg-opacity-90 shadow-lg shadow-gray-200/50;
 }
-.bubble:after {
+.bubble-left:after {
 	content: '';
 	position: absolute;
 	display: block;
 	width: 0;
 	z-index: 1;
 	border-style: solid;
-	border-width: 21px 28px 0 0;
-	@apply border-transparent border-t-green-400 border-opacity-90;
-	bottom: -20px;
-	left: 30px;
-	margin-left: -14px;
+	border-width: 0 20px 28px 0;
+	margin-top: -10px;
+	@apply top-[25%] sm:top-[21%] left-[-12px] sm:left-[-17px];
+	@apply border-transparent border-r-gray-200 border-opacity-90;
+}
+
+.bubble-right {
+	position: relative;
+	@apply text-white ml-auto p-5 sm:p-8 text-4xl sm:text-5xl rounded-3xl backdrop-blur-sm mb-10  cursor-default items-start bg-green-400 bg-opacity-90 shadow-lg shadow-green-400/50;
+}
+.bubble-right:after {
+	content: '';
+	position: absolute;
+	display: block;
+	width: 0;
+	z-index: 1;
+	border-style: solid;
+	border-width: 0 0 28px 20px;
+	margin-top: -10px;
+	@apply top-[25%] sm:top-[21%] right-[-12px] sm:right-[-17px];
+	@apply border-transparent border-l-green-400 border-opacity-90;
 }
 
 .lds-ripple {
@@ -42,7 +57,7 @@ body {
 }
 .lds-ripple div {
 	position: absolute;
-	border: 4px solid;
+	border: 8px solid;
 	@apply border-green-400;
 	opacity: 1;
 	border-radius: 50%;

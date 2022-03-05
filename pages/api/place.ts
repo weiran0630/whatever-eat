@@ -14,17 +14,19 @@ export default async function handler(
 		});
 	}
 
-	if (process.env.NODE_ENV === 'development') {
-		const shuffled = shuffle(mock);
-		return res.status(200).json(shuffled);
-	}
+	// if (process.env.NODE_ENV === 'development') {
+	// 	const shuffled = shuffle(mock);
+	// 	const slice = shuffled.slice(0, 1);
+	// 	return res.status(200).json(slice);
+	// }
 
 	const { lat, lng, query } = body;
-	const placesUrl = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${lat},${lng}&language=zh-TW&radius=1500&type=restaurant&keyword=${query}&opennow=true&key=${API_KEY}`;
+	const placesUrl = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${lat},${lng}&language=zh-TW&radius=500&type=restaurant&keyword=${query}&opennow=true&key=${API_KEY}`;
 
 	const { results } = await (await fetch(placesUrl)).json();
 
 	const shuffled = shuffle(results);
+	const slice = shuffled.slice(0, 1);
 
-	return res.status(200).json(shuffled);
+	return res.status(200).json(slice);
 }
