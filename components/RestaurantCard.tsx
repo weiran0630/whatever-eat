@@ -28,13 +28,13 @@ export default function RestaurantCard({ restaurant }: RestaurantCardProps) {
 			}}
 			whileHover={{ scale: 1.05 }}
 		>
-			<div className='relative h-[275px] w-[400px] aspect-[4/3] m-0 rounded-t-xl overflow-hidden'>
+			<div className='relative w-[80vw] sm:h-[275px] aspect-[16/11] m-0 rounded-t-xl overflow-hidden'>
 				<Image
 					className='relative shadow-inner shadow-white'
 					src={photoUrl}
 					alt={restaurant.name}
 					height={275}
-					width={400}
+					width={300}
 					layout='responsive'
 				/>
 			</div>
