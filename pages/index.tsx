@@ -1,4 +1,5 @@
 import type { NextPage } from 'next';
+import Head from 'next/head';
 import { useState } from 'react';
 import HeroSection from '../components/HeroSection';
 import LoadingSpinner from '../components/LoadingSpinner';
@@ -22,6 +23,10 @@ const Home: NextPage = () => {
 
 	return (
 		<div className='flex flex-col items-center'>
+			<Head>
+				<title>隨便吃 Eat whatever</title>
+			</Head>
+
 			<div className='h-[60vh] flex flex-col items-center justify-center'>
 				<HeroSection />
 				<SearchBar query={query} setQuery={setQuery} refetch={refetch} />
