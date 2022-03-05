@@ -1,35 +1,44 @@
 import type { NextPage } from 'next';
-import { useQuery } from 'react-query';
+import { useState } from 'react';
+import LoadingSpinner from '../components/LoadingSpinner';
+import RestaurantCard from '../components/RestaurantCard';
 import SearchBar from '../components/SearchBar';
+import SpeechBubble from '../components/SpeechBubble';
+import useDebounce from '../hooks/useDebounce';
 import useGeolocation from '../hooks/useGeolocation';
-import { Restaurant } from '../models/restaurant';
+import useRestaurants from '../hooks/useRestaurants';
 
 const Home: NextPage = () => {
 	const { lat, lng, loading, error } = useGeolocation();
+	const [query, setQuery] = useState<string>('');
+	const debouncedQuery = useDebounce(query);
 
-	const { data } = useQuery<Restaurant[]>(['place', { lat, lng }], async () => {
-		return await (
-			await fetch(`/api/place`, {
-				method: 'POST',
-				body: JSON.stringify({ lat, lng }),
-				headers: { 'Content-Type': 'application/json' },
-			})
-		).json();
-	});
+	const { data, isError, isLoading } = useRestaurants(lat, lng, debouncedQuery);
 
 	return (
-		<>
-			{loading && <p>Loading...</p>}
+		<div className='flex flex-col items-center'>
+			<div className='h-[50vh] flex flex-col items-center justify-center'>
+				<SpeechBubble />
 
-			{data
-				? data.map(restaurant => (
-						<div key={restaurant.place_id}>{restaurant.name}</div>
-				  ))
-				: null}
-			<SearchBar />
+				<SearchBar query={query} setQuery={setQuery} />
+			</div>
+
+			{(loading || isLoading) && <LoadingSpinner />}
+
+			<div className='flex flex-wrap justify-center m-auto'>
+				{data
+					? data.map(restaurant => (
+							<RestaurantCard
+								key={restaurant.place_id}
+								restaurant={restaurant}
+							/>
+					  ))
+					: null}
+			</div>
 
 			{error && <p>{error}</p>}
-		</>
+			{isError && <p>Something went wrong</p>}
+		</div>
 	);
 };
 
